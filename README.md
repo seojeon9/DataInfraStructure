@@ -1,5 +1,4 @@
-# DataInfraStructure
-AWS 데이터 인프라 구축
+# AWS 데이터 인프라 구축 & 엔지니어링
 
 ### Day01 (12/19) - 환경구축하기
 
